@@ -45,10 +45,9 @@ ul {
     overflow: hidden;
 }
 
-
-
-
-
+.col-margin {
+    margin: 0 0 10px 0;
+}
 
 /*Sticky footer*/
 
